@@ -18,4 +18,4 @@ Screenshots:
 
 
 ---
-PS: This project was written by me for my ex-girlfriend which was an assignment to my ex who didn't know how to program.....Feel free to use~
+PS: This project was written by me for my ex-girlfriend which was an assignment to her who didn't know how to program.....Feel free to use~
